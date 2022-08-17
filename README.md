@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm 15 years old learner from Saint-Petersburg, Russia.
+I'm 16 years old learner from Saint-Petersburg, Russia.
 
 <div align=center>
   
