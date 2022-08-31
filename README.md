@@ -45,7 +45,7 @@ I'm 16 years old learner from Saint-Petersburg, Russia.
 
 ### Currently I'm learning
 
-- Rust
+- Rust 🚀
 - Packaging for Linux (in fact GNU/Linux, or as I've recently taken to calling it, GNU plus Linux)
 - DevOps
 
