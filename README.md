@@ -16,7 +16,6 @@ I'm 16 years old learner from Saint-Petersburg, Russia.
 ## Work
 
 ### Currently I'm
-- packaging [plainDE](https://plainde.org)
 - developing [pkgMatcher](https://pkgmatcher.dev)
 - creating [bf3D](https://github.com/ivabus/bf3d)
 
@@ -24,6 +23,7 @@ I'm 16 years old learner from Saint-Petersburg, Russia.
 - [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles) (keep updating)
+- packaged [plainDE](https://plainde.org) for AUR and ArchLinux repo
 
 ## Skills
 
