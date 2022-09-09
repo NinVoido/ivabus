@@ -23,7 +23,7 @@ I'm 16 years old learner from Saint-Petersburg, Russia.
 - [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles) (keep updating)
-- packaged [plainDE](https://plainde.org) for AUR and ArchLinux repo
+- packaged [plainDE](https://plainde.org) for AUR and ArchLinux repo and created plainDE.org website.
 
 ## Skills
 
