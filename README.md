@@ -57,8 +57,8 @@ I'm 16 years old learner from Saint-Petersburg, Russia.
 - Email: <ivabus@ivabus.dev>
 - Telegram: [@BushchikIvan](https://t.me/BushchikIvan)
 - Matrix: [@ivabus:matrix.org](https://matrix.to/#/@ivabus:matrix.org)
-- VK: [@ivabus](https://vk.com/ivabus)
 - Mastodon: [@ivabus@treehouse.systems](https://social.treehouse.systems/@ivabus)
+- VK: [@ivabus](https://vk.com/ivabus)
 
 Besides, I have a [blog](https://ivabus.dev).
 
