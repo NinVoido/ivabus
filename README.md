@@ -17,12 +17,13 @@ I'm 16 years old learner from Saint-Petersburg, Russia.
 
 ### Currently I'm
 - developing [pkgMatcher](https://pkgmatcher.dev)
-- creating [bf3D](https://github.com/ivabus/bf3d)
+- [porting openSUSE for Apple Silicon](https://github.com/ivabus/asahi-opensuse)
 
 ### What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles)
+- created [bf3D](https://github.com/ivabus/bf3d)
 - packaged [plainDE](https://plainde.org) for AUR and ArchLinux repo and created plainDE.org website.
 
 ## Skills
