@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="979" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="908" class="">
     <defs>
         <style/>
     </defs>
@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    7.44k added, 3.68k removed
+                                    13k added, 7.93k removed
                                 </div>
                             </section>
                             <section>
@@ -170,20 +170,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 814kb of code in 851 edited files across 505 commits</small>
+                <small>estimation from 816kb of code in 858 edited files across 507 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.08528819463342" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="179.08528819463342" y="0" width="142.50035378000325" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="321.5856419746367" y="0" width="54.65645240298264" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="376.24209437761937" y="0" width="46.902574429869915" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="423.14466880748927" y="0" width="26.318619713710337" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.4632885211996" y="0" width="5.252707777717303" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="454.71599629891693" y="0" width="4.184890872475916" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.90088717139287" y="0" width="1.0991128286071954" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.92363074781397" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="178.92363074781397" y="0" width="142.3717209727237" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="321.29535172053767" y="0" width="54.60711489102536" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="375.902466611563" y="0" width="46.86023622047244" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="422.7627028320355" y="0" width="26.710097011354243" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.47279984338974" y="0" width="5.247966241788838" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="454.7207660851786" y="0" width="4.181113237917084" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.90187932309567" y="0" width="1.0981206769043372" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -279,26 +279,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Опыт использования Asahi Linux</div>
-                                <div class="date">16 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">OpenRC vs systemd</div>
-                                <div class="date">28 Mar 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Обзор rolling дистрибутивов Linux</div>
-                                <div class="date">22 Feb 2022</div>
+                                <div class="title">Announcement of openSUSE port for Apple Silicon</div>
+                                <div class="date">5 Jan 2023</div>
                             </div>
                         </div>
                     </section>
